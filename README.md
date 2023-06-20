@@ -12,9 +12,7 @@ Flutter é um framework open-source criado pelo Google que utiliza a linguagem D
 
 ## Estrutura do Repositório
 
-- `/exemplos`: Esta pasta contém exemplos práticos que ilustram conceitos fundamentais do Dart e do Flutter. Cada exemplo é acompanhado de um breve comentário explicativo para ajudar no entendimento.
-- `/recursos`: Aqui você encontrará arquivos e links úteis relacionados ao Dart e ao Flutter, como documentação oficial, tutoriais, artigos, entre outros.
-- `/projetos`: Nesta pasta, você pode explorar projetos mais complexos desenvolvidos usando Dart e Flutter. Cada projeto é organizado em seu próprio diretório e pode incluir todas as dependências necessárias para sua execução.
+- `/inicial-projects.dart`: Esta pasta contém exemplos práticos que ilustram conceitos fundamentais do Dart e do Flutter. Cada exemplo é acompanhado de um breve comentário explicativo para ajudar no entendimento.
 
 ## Como Contribuir
 
